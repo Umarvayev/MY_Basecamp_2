@@ -1,0 +1,133 @@
+
+.container2{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+.container2 .row2{
+    background-color:black;
+    color: white;
+    width: 400px;
+   padding: 50px;
+}
+
+.form-control{
+    height: 50px;
+    margin-top: 10px;
+    width: 300px;
+    position: relative;
+ 
+}
+
+
+.container2 h2{
+    text-align: center
+}
+.container2 .submit-button{
+    background-color: blue;
+    margin-top: 20px;
+    text-align: center;
+    width: 200px;
+    background-color: orange;
+    color: black;
+    font-size: 20px; 
+    font-weight: bold;
+    padding: 8px; 
+
+}
+.container2 .submit-button:hover{
+    background-color:black;
+    color: orange;
+    border: 1px solid orange;
+}
+.container2 .actions{
+display: flex;
+justify-content:center;
+margin-top: 20px;
+
+}
+.container3 .box_3 .row{
+    background-color:black;
+    color: white;
+    width: 400px;
+
+}
+
+.container3 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container3 .row{
+    background-color:black;
+    color: white;
+    width: 400px;
+   padding: 50px;
+}
+.render{
+   padding-top: 50px;
+   text-align: center;
+
+}
+
+.container10 .box10 .container11{
+
+
+  padding: 0.375rem 0.75rem; 
+  font-size: 1rem; 
+  font-weight: 400; 
+  line-height: 1.5; 
+  color: #212529; 
+  background-color: #fff; 
+  background-clip: padding-box; 
+  border: 1px solid #ced4da; 
+  -webkit-appearance: none; 
+  -moz-appearance: none; 
+  appearance: none; 
+  border-radius: 0.25rem; 
+  transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out; 
+  box-shadow: 0px 0px 15px 0px black; 
+ 
+} 
+
+.container10 .box10{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.box11 .row11{
+    position: relative;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    
+}
+
+.container10 .but1{
+ position: relative;
+ display: flex;
+    
+}
+.container10 .but1 .btn{
+    margin-left: 10px;
+}
+.container10 .but{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+input{ 
+
+    margin-top: 20px;
+    text-align: center;
+    width: 200px;
+    background-color: orange;
+    color: black;
+    font-size: 20px; 
+    font-weight: bold;
+    padding: 8px; 
+}
